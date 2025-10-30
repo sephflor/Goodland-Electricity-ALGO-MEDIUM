@@ -1,1 +1,1 @@
-# Goodland-Electricity-ALGO-MEDIUM
+# Goodland-Electricity-ALGO-MEDIUM.This greedy algorithm places power plants as far right as possible within range to maximize coverage, ensuring all cities are within distance k of a plant while using the minimum number of plants and detecting impossible cases where coverage gaps exist.
